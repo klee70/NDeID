@@ -13,7 +13,7 @@ cd NDeid-master
 unzip lib.zip
 ```
 
-To get offsets of PHIs from '.txt' files, place target files under 'NDeid/target' folder.
+To get offsets of PHIs from '.txt' files, place target files under 'NDeid-master/target' folder.
 
 ```
 (For Linux)
