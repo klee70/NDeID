@@ -18,6 +18,4 @@ To get offsets of PHIs from '.txt' files, place target files under 'NDeid/target
 ```
 (For Linux)
 ./NDeid_linux > result.txt
-(For Mac)
-./NDeid_mac > result.txt
 ```
