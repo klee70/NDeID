@@ -5,7 +5,7 @@ NDeid is a standalone identification scrubber program which doesn't require tens
 
 ## Using NDeid
 
-To use NDeid, run the following commands from the terminal: 
+To use NDeid, download the repository into ZIP file and run the following commands from the terminal: 
 ```
 unzip NDeid.zip
 cd NDeid
